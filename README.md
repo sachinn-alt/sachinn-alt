@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on google<br>🤝 I’m looking for help with other web developers<br>🌱 I’m currently learning Data Structure and Algorithm<br>💬 Ask me about anything<br>⚡ Fun fact I'm a Student with Zero Coding Knowledge
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on google<br>🤝 I’m looking for help with other web developers<br>🌱 I’m currently learning Data Structure and Algorithm<br>💬 Ask me about anything<br>⚡ Fun fact I'm a Computer Science Engineering Student with Zero Coding Knowledge
 
 
 ## 🌐 Socials:
