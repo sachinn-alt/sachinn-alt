@@ -8,22 +8,22 @@
  _\ \/ /   /  / /_/ // /_/ // /  /  |/ //  |/ / 
 /___/_/\_/\_//_/ /_/ \____//___//_/|__/ |_/|__/  :: ALT
 </font>
-<font color="#059669">[ SACHIN KUMAR SINGH • COSMIC EXPLORER • 3D CIVIC TECH • GENAI ARCHITECT ]</font>
+<font color="#059669">[ SACHIN KUMAR SINGH • FULL-STACK & GENAI DEVELOPER • SPACE & TECH ENTHUSIAST ]</font>
 </pre>
 
   <!-- Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=190&section=header&text=SACHIN%20KUMAR%20SINGH&fontSize=38&fontColor=ffffff&animation=twinkling&desc=CS%20%26%20Engineering%20Student%20%7C%20Full-Stack%2C%20GenAI%20%26%20Space%20Tech&descSize=15&descAlignTop=true&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=190&section=header&text=SACHIN%20KUMAR%20SINGH&fontSize=38&fontColor=ffffff&animation=twinkling&desc=CS%20%26%20Engineering%20Student%20%7C%20Full-Stack%20%26%20GenAI%20Developer%20%7C%20Space%20%26%20Tech%20Enthusiast&descSize=14&descAlignTop=true&descAlign=50" width="100%" alt="Header Banner"/>
 
   <br/>
 
-  <!-- Dynamic Typing Telemetry -->
+  <!-- Dynamic Typing Telemetry Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&background=0D111700&center=true&vCenter=true&width=680&height=50&lines=Welcome+to+sachinn-alt+digital+orbit+%F0%9F%9B%B0%EF%B8%8F;Building+Space+Event+Navigator+%26+Beacon+3D+Civic+Platform;Kotlin+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+GenAI+%E2%80%A2+Machine+Learning;Crafting+Tactile+UIs+%26+Intelligent+Real-Time+Systems" alt="Typing Telemetry SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&background=0D111700&center=true&vCenter=true&width=700&height=50&lines=CS+%26+Engineering+Student+%E2%80%A2+Full-Stack+%26+GenAI+Developer;Building+Space+Event+Navigator+%26+Beacon+3D+Civic+Platform;Kotlin+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;Crafting+Tactile+Web+Experiences+%26+Intelligent+AI+Pipelines" alt="Typing Telemetry SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Social & Profile Badges -->
+  <!-- Social Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/sachin-kumar-singh-6a8431228" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=022C22&labelColor=059669" alt="LinkedIn"/>
@@ -55,7 +55,7 @@
 │
 ├── 🎓 IDENTITY         :: Computer Science & Engineering Student
 ├── 🚀 CORE FOCUS       :: Space Telemetry Apps, GenAI Concierge & 3D Hyperlocal Civic Tech
-├── 🧠 AI TELEMETRY      :: Machine Learning, LLM Pipelines, PyTorch & Web Speech API
+├── 🧠 AI TELEMETRY      :: Machine Learning, LLM Triage Engines, PyTorch & Web Speech API
 ├── 🛠️ STACK SPECS      :: Kotlin, TypeScript, React, Vite, Python, FastAPI, Node.js, PostgreSQL
 └── 📍 CURRENT MISSION   :: Engineering interactive space navigators, AI assistants & web platforms
 ```
@@ -71,16 +71,16 @@
 </p>
 
 <details>
-<summary><b>🛠️ Full Engineering Capabilities</b></summary>
+<summary><b>🛠️ Full Categorized Engineering Capabilities</b></summary>
 
 <br/>
 
 | Domain | Technologies & Frameworks |
 |---|---|
-| **Mobile & Space Tech** | `Kotlin`, `Android SDK`, `Real-time Satellite & Launch APIs` |
-| **Frontend & 3D UI** | `React.js`, `Vite`, `TypeScript`, `Tailwind CSS`, `Web Speech API`, `Brutalist Design Systems` |
-| **AI & Data Science** | `Python`, `PyTorch`, `TensorFlow`, `FastAPI`, `Scikit-Learn`, `Pandas`, `NumPy`, `Keras` |
-| **Backend & Databases**| `Node.js`, `Express.js`, `PostgreSQL`, `MongoDB`, `Docker`, `GCP`, `Vercel`, `GitHub Pages` |
+| **Mobile & Space Tech** | `Kotlin`, `Android SDK`, `Real-Time Launch & Celestial Data APIs` |
+| **Frontend & 3D UI** | `React.js`, `Vite`, `TypeScript`, `Tailwind CSS`, `Web Speech API`, `Brutalist UI` |
+| **AI & Machine Learning** | `Python`, `PyTorch`, `TensorFlow`, `FastAPI`, `Scikit-Learn`, `Pandas`, `NumPy`, `Keras` |
+| **Backend & Databases**| `Node.js`, `Express.js`, `PostgreSQL`, `MongoDB`, `Docker`, `GCP`, `Vercel` |
 
 </details>
 
@@ -88,7 +88,7 @@
 
 ---
 
-## 🚀 Key Starship Repositories (`sachinn-alt`)
+## 🚀 Featured Project Showcase
 
 <table>
   <tr>
@@ -99,7 +99,7 @@
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
         <img src="https://img.shields.io/badge/Space%20APIs-0B3D91?style=flat-square&logo=nasa&logoColor=white"/>
       </p>
-      <p>Modern web & mobile application exploring upcoming rocket launches, celestial alignments, satellite missions, and cosmic discoveries with real-time telemetry.</p>
+      <p>Modern application exploring upcoming rocket launches, astronomical events, satellite missions, and cosmic discoveries with real-time telemetry.</p>
       <p align="center">
         <a href="https://github.com/sachinn-alt/space-event-navigator"><b>📁 Repository</b></a>
       </p>
@@ -148,6 +148,28 @@
 
 <br/>
 
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <h3>🛍️ Vyapari Sathi - Merchant Platform</h3>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+        </p>
+        <p>Empowering local merchants and businesses with an intuitive web management platform for seamless operations and commerce.</p>
+        <p>
+          <a href="https://github.com/sachinn-alt/Vyapari-Sathi"><b>📁 Repository</b></a> • 
+          <a href="https://vyapari-sathi.vercel.app" target="_blank"><b>🌐 Live Application</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 ---
 
 ## 📊 Live Orbit Metrics & GitHub Stats
@@ -191,6 +213,16 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sachinn-alt/sachinn-alt/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 
+</div>
+
+<br/>
+
+---
+
+## 💬 Developer Inspiration
+
+<div align="center">
+  <img src="https://readme-jokes-three.vercel.app/api?theme=dark&bg_color=0d1117&color=c9d1d9&border_color=10b981&qColor=10b981&aColor=10b981" alt="Dev Joke / Quote" />
 </div>
 
 <br/>
