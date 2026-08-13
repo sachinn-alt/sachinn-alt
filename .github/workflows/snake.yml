@@ -21,14 +21,14 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # Generates snake game from GitHub user contributions graph
+      # Generates snake game from GitHub user contributions graph in Deep Space Cyan theme
       - name: Generate github-contribution-grid-snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2310B981&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2338BDF8&color_dots=%230b0f19,%231e3a8a,%231d4ed8,%233b82f6,%2338bdf8
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
