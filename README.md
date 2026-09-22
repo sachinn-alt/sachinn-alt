@@ -1,17 +1,17 @@
 <div align="center">
 
   <!-- Static Indian Ornate Namaste Header -->
-  <img src="./assets/header_namaste.svg" width="100%" alt="Namaste • Sachin Kumar Singh Header"/>
+  <img src="https://raw.githubusercontent.com/sachinn-alt/sachinn-alt/main/assets/header_namaste.svg" width="100%" alt="Namaste • Sachin Kumar Singh Header"/>
 
   <br/><br/>
 
   <!-- Static Indian Folk Art & Tech Illustration Hero Banner -->
-  <img src="./assets/hero_indian_illustration.jpg" width="100%" alt="Indian Folk Art & Technology Illustration Banner" style="border-radius: 12px;"/>
+  <img src="https://raw.githubusercontent.com/sachinn-alt/sachinn-alt/main/assets/hero_indian_illustration.jpg" width="100%" alt="Indian Folk Art & Technology Illustration Banner" style="border-radius: 12px;"/>
 
   <br/><br/>
 
   <!-- Traditional Indian Mandala SVG Section Divider -->
-  <img src="./assets/mandala_divider.svg" width="100%" alt="Mandala Divider"/>
+  <img src="https://raw.githubusercontent.com/sachinn-alt/sachinn-alt/main/assets/mandala_divider.svg" width="100%" alt="Mandala Divider"/>
 
   <br/>
 
@@ -58,7 +58,7 @@
 
 <!-- Static Warli Folk Art Strip Divider -->
 <div align="center">
-  <img src="./assets/warli_divider.svg" width="100%" alt="Warli Folk Art Divider"/>
+  <img src="https://raw.githubusercontent.com/sachinn-alt/sachinn-alt/main/assets/warli_divider.svg" width="100%" alt="Warli Folk Art Divider"/>
 </div>
 
 <br/>
@@ -100,7 +100,7 @@
 
 <!-- Traditional Indian Mandala SVG Section Divider -->
 <div align="center">
-  <img src="./assets/mandala_divider.svg" width="100%" alt="Mandala Divider"/>
+  <img src="https://raw.githubusercontent.com/sachinn-alt/sachinn-alt/main/assets/mandala_divider.svg" width="100%" alt="Mandala Divider"/>
 </div>
 
 <br/>
@@ -187,7 +187,7 @@
 
 <!-- Static Warli Folk Art Strip Divider -->
 <div align="center">
-  <img src="./assets/warli_divider.svg" width="100%" alt="Warli Folk Art Divider"/>
+  <img src="https://raw.githubusercontent.com/sachinn-alt/sachinn-alt/main/assets/warli_divider.svg" width="100%" alt="Warli Folk Art Divider"/>
 </div>
 
 <br/>
@@ -224,7 +224,7 @@
 
 <!-- Traditional Indian Mandala SVG Section Divider -->
 <div align="center">
-  <img src="./assets/mandala_divider.svg" width="100%" alt="Mandala Divider"/>
+  <img src="https://raw.githubusercontent.com/sachinn-alt/sachinn-alt/main/assets/mandala_divider.svg" width="100%" alt="Mandala Divider"/>
 </div>
 
 <br/>
@@ -232,7 +232,7 @@
 <div align="center">
 
   <!-- Static Indian Heritage Landscape Footer Illustration -->
-  <img src="./assets/footer_indian_illustration.jpg" width="100%" alt="Indian Architectural Heritage & Lotus Waters Footer Banner" style="border-radius: 12px;"/>
+  <img src="https://raw.githubusercontent.com/sachinn-alt/sachinn-alt/main/assets/footer_indian_illustration.jpg" width="100%" alt="Indian Architectural Heritage & Lotus Waters Footer Banner" style="border-radius: 12px;"/>
 
   <br/><br/>
 
