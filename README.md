@@ -1,116 +1,129 @@
 <div align="center">
 
-<!-- 3D Space Scene Header Container -->
-<table border="0" width="100%">
-  <tr align="center" valign="middle">
-    <td width="15%" align="right">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="95" alt="3D Rocket"/>
-    </td>
-    <td width="70%" align="center">
-      <!-- ASCII Header Banner (Deep Space Cosmic Blue & Cyan Accent) -->
-      <pre align="center">
-<font color="#38BDF8">
-   ______ _____ ____   __  __ _____ _   _  _   _ 
-  / __/ \/ /   / __ \ / / / //  _// | / /| | / /
- _\ \/ /   /  / /_/ // /_/ // /  /  |/ //  |/ / 
-/___/_/\_/\_//_/ /_/ \____//___//_/|__/ |_/|__/  :: ALT
-</font>
-<font color="#8B5CF6">[ SACHIN KUMAR SINGH • FULL-STACK & GENAI DEVELOPER • SPACE & TECH ENTHUSIAST ]</font>
-      </pre>
-    </td>
-    <td width="15%" align="left">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="95" alt="3D Ringed Planet"/>
-    </td>
-  </tr>
-</table>
+  <!-- Static Indian Ornate Namaste Header -->
+  <img src="./assets/header_namaste.svg" width="100%" alt="Namaste • Sachin Kumar Singh Header"/>
 
-  <!-- Waving Cosmic Blue Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=190&section=header&text=SACHIN%20KUMAR%20SINGH&fontSize=38&fontColor=ffffff&animation=twinkling&desc=CS%20%26%20Engineering%20Student%20%7C%20Full-Stack%20%26%20GenAI%20Developer%20%7C%20Space%20%26%20Tech%20Enthusiast&descSize=14&descAlignTop=true&descAlign=50" width="100%" alt="Header Banner"/>
+  <br/><br/>
+
+  <!-- Static Indian Folk Art & Tech Illustration Hero Banner -->
+  <img src="./assets/hero_indian_illustration.jpg" width="100%" alt="Indian Folk Art & Technology Illustration Banner" style="border-radius: 12px;"/>
+
+  <br/><br/>
+
+  <!-- Traditional Indian Mandala SVG Section Divider -->
+  <img src="./assets/mandala_divider.svg" width="100%" alt="Mandala Divider"/>
 
   <br/>
 
-  <!-- 3D Flanking Orbit Elements & Dynamic Typing Telemetry -->
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite.png" width="40" alt="3D Satellite"/>
-    &nbsp;&nbsp;
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=620&height=50&lines=CS+%26+Engineering+Student+%E2%80%A2+Full-Stack+%26+GenAI+Developer;Building+Space+Event+Navigator+%26+Beacon+3D+Civic+Platform;Kotlin+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;Crafting+Tactile+Web+Experiences+%26+Intelligent+AI+Pipelines" alt="Typing Telemetry SVG" />
-    </a>
-    &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="40" alt="3D UFO"/>
-  </p>
-
-  <br/>
-
-  <!-- Social Badges (Space Obsidian & Cosmic Blue Accent) -->
+  <!-- Social Badges in Indian Pigment Palette (Saffron, Terracotta, Indigo & Emerald) -->
   <p align="center">
     <a href="https://linkedin.com/in/sachin-kumar-singh-6a8431228" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0F172A&labelColor=1E40AF" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1B2A&labelColor=1E3A5F" alt="LinkedIn"/>
     </a>
     <a href="mailto:sachinsingh13112004@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0F172A&labelColor=1E40AF" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1B2A&labelColor=C2410C" alt="Email"/>
     </a>
     <a href="https://x.com/SachinSing75233" target="_blank">
-      <img src="https://img.shields.io/badge/X%20(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white&color=0F172A&labelColor=1E40AF" alt="Twitter"/>
+      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&color=0D1B2A&labelColor=B45309" alt="Twitter"/>
     </a>
     <a href="https://behance.net/sachinkumars9" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&color=0F172A&labelColor=1E40AF" alt="Behance"/>
+      <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&color=0D1B2A&labelColor=1E3A5F" alt="Behance"/>
     </a>
     <a href="https://instagram.com/sachinnxiii" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0F172A&labelColor=1E40AF" alt="Instagram"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0D1B2A&labelColor=9A3412" alt="Instagram"/>
     </a>
   </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
-
 <br/>
 
-## 🪐 3D Orbit System Status & Telemetry
+## 🪷 ॥ तत्त्वज्ञानम् • Philosophy & Artisan Identity ॥
 
-```cosmic-terminal
-┌──[ SACHIN@COSMIC-TERMINAL ]──[~]
-│
-├── 🚀 3D MISSION       :: Space Data Systems, 3D Hyperlocal Civic Tech & AI Microservices
-├── 🎓 IDENTITY         :: Computer Science & Engineering Student
-├── 🧠 AI TELEMETRY      :: Machine Learning, LLM Triage Engines, PyTorch & Web Speech API
-├── 🛠️ STACK SPECS      :: Kotlin, TypeScript, React, Vite, Python, FastAPI, Node.js, PostgreSQL
-└── 🪐 ORBIT STATUS      :: Engineering interactive space navigators, AI assistants & web platforms
+```artisan-tablet
+┌──[ SACHIN KUMAR SINGH • CRAFTSMAN'S TABLET ]─────────────────────────────┐
+│                                                                          │
+│  विद्या ददाति विनयं विनयाद्याति पात्रताम् ।                                   │
+│  पात्रत्वाद्धनमाप्नोति धनाद्धर्मं ततः सुखम् ॥                                 │
+│  "Knowledge bestows humility; from humility comes true capability."      │
+│                                                                          │
+│  • IDENTITY      :: Computer Science & Engineering Scholar               │
+│  • CRAFT FOCUS   :: Full-Stack Web Architecture, Applied GenAI & Systems │
+│  • WORK ETHIC    :: Building with intentionality, resilience & empathy   │
+│  • HERITAGE      :: Rooted in India 🇮🇳 • Architecting for the World       │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
----
+<!-- Static Warli Folk Art Strip Divider -->
+<div align="center">
+  <img src="./assets/warli_divider.svg" width="100%" alt="Warli Folk Art Divider"/>
+</div>
 
-## ⚡ Tech Matrix & Core Ecosystem
+<br/>
+
+## 🎨 ॥ कौशल्यम् • Tech Matrix & Tool Ecosystem ॥
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,kotlin,react,vite,py,fastapi,nodejs,express,postgres,mongodb,docker,tailwind,git,github,vercel,pytorch,tensorflow,gcp&perline=10" alt="Sachin's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,kotlin,react,vite,py,fastapi,nodejs,express,postgres,mongodb,docker,tailwind,git,github,vercel,pytorch,tensorflow,gcp&perline=10" alt="Sachin's Tech Matrix" />
 </p>
 
-<details>
-<summary><b>🛠️ Full Categorized Engineering Capabilities</b></summary>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="30%">🏛️ Domain</th>
+      <th align="left" width="70%">🪔 Technologies &amp; Capabilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Mobile &amp; Systems</b></td>
+      <td><code>Kotlin</code> • <code>Android SDK</code> • <code>Real-Time Telemetry &amp; RESTful APIs</code></td>
+    </tr>
+    <tr>
+      <td><b>Frontend &amp; Tactile UI</b></td>
+      <td><code>React.js</code> • <code>TypeScript</code> • <code>Vite</code> • <code>Tailwind CSS</code> • <code>Web Speech API</code> • <code>Accessible Design</code></td>
+    </tr>
+    <tr>
+      <td><b>Applied AI &amp; Intelligence</b></td>
+      <td><code>Python</code> • <code>PyTorch</code> • <code>TensorFlow</code> • <code>FastAPI</code> • <code>LLM Triage Pipelines</code> • <code>Scikit-Learn</code></td>
+    </tr>
+    <tr>
+      <td><b>Backend &amp; Cloud Infra</b></td>
+      <td><code>Node.js</code> • <code>Express.js</code> • <code>PostgreSQL</code> • <code>MongoDB</code> • <code>Docker</code> • <code>GCP</code> • <code>Vercel</code></td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
-| Domain | Technologies & Frameworks |
-|---|---|
-| **Mobile & Space Tech** | `Kotlin`, `Android SDK`, `Real-Time Launch & Celestial Data APIs` |
-| **Frontend & 3D UI** | `React.js`, `Vite`, `TypeScript`, `Tailwind CSS`, `Web Speech API`, `Brutalist UI` |
-| **AI & Machine Learning** | `Python`, `PyTorch`, `TensorFlow`, `FastAPI`, `Scikit-Learn`, `Pandas`, `NumPy`, `Keras` |
-| **Backend & Databases**| `Node.js`, `Express.js`, `PostgreSQL`, `MongoDB`, `Docker`, `GCP`, `Vercel` |
-
-</details>
+<!-- Traditional Indian Mandala SVG Section Divider -->
+<div align="center">
+  <img src="./assets/mandala_divider.svg" width="100%" alt="Mandala Divider"/>
+</div>
 
 <br/>
 
----
-
-## 🚀 Featured Project Showcase
+## 🏛️ ॥ प्रकल्प वाटिका • Featured Project Pavilion ॥
 
 <table>
   <tr>
+    <!-- Project 1: Vyapari Sathi -->
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ Vyapari Sathi (व्यापारी साथी)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+      <p>An intuitive merchant management and commerce platform built to empower Indian local merchants and shop owners with effortless operational control and business bookkeeping.</p>
+      <p align="center">
+        <a href="https://github.com/sachinn-alt/Vyapari-Sathi"><b>📁 Repository</b></a> • 
+        <a href="https://vyapari-sathi.vercel.app" target="_blank"><b>🌐 Live Application</b></a>
+      </p>
+    </td>
+    <!-- Project 2: Space Event Navigator -->
     <td width="50%" valign="top">
       <h3 align="center">🛸 Space Event Navigator</h3>
       <p align="center">
@@ -118,25 +131,27 @@
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
         <img src="https://img.shields.io/badge/Space%20APIs-0B3D91?style=flat-square&logo=nasa&logoColor=white"/>
       </p>
-      <p>Modern application exploring upcoming rocket launches, astronomical events, satellite missions, and cosmic discoveries with real-time telemetry.</p>
+      <p>Real-time cosmic explorer app surfacing orbital rocket launches, astronomical celestial events, and mission telemetry through clean Android native engineering.</p>
       <p align="center">
         <a href="https://github.com/sachinn-alt/space-event-navigator"><b>📁 Repository</b></a>
       </p>
     </td>
+  </tr>
+  <tr>
+    <!-- Project 3: Beacon - 3D Civic Platform -->
     <td width="50%" valign="top">
-      <h3 align="center">📡 Beacon - 3D Civic Platform</h3>
+      <h3 align="center">📡 Beacon — 3D Civic Platform</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/3D%20Tactile-38BDF8?style=flat-square&logo=three.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI%20Triage-8B5CF6?style=flat-square&logo=openai&logoColor=white"/>
       </p>
-      <p>3D-tactile hyperlocal civic platform leveraging AI to automatically triage, validate, and track community infrastructure issues in real time.</p>
+      <p>Hyperlocal civic governance platform using AI validation and 3D spatial mapping to categorize, track, and resolve community infrastructure grievances efficiently.</p>
       <p align="center">
         <a href="https://github.com/sachinn-alt/beacon"><b>📁 Repository</b></a>
       </p>
     </td>
-  </tr>
-  <tr>
+    <!-- Project 4: FIFA 2026 Concierge -->
     <td width="50%" valign="top">
       <h3 align="center">⚽ FIFA 2026 Concierge</h3>
       <p align="center">
@@ -144,20 +159,23 @@
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img src="https://img.shields.io/badge/GenAI-00A67E?style=flat-square&logo=openai&logoColor=white"/>
       </p>
-      <p>Dual-persona GenAI stadium assistant and fan concierge for the FIFA World Cup 2026 built with React, Web Speech API, and Brutalist Sportswear theme.</p>
+      <p>Voice-first, dual-persona conversational stadium concierge for the FIFA World Cup 2026, equipped with speech recognition and contextual matchday guidance.</p>
       <p align="center">
         <a href="https://github.com/sachinn-alt/fifa-2026-assistant"><b>📁 Repository</b></a> • 
         <a href="https://sachinn-alt.github.io/fifa-2026-assistant/"><b>🌐 Live Demo</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 OmniPitch AI</h3>
+  </tr>
+  <tr>
+    <!-- Project 5: OmniPitch AI -->
+    <td colspan="2" align="center" valign="top">
+      <h3>🤖 OmniPitch AI — Presentation Intelligence Engine</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI%20Engine-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       </p>
-      <p>AI intelligence engine and presentation feedback suite analyzing pitch performance with machine learning models and automated insights.</p>
+      <p>Intelligent pitch analysis and public-speaking feedback suite utilizing machine learning models to assess vocal cadence, conviction, and presentation structure.</p>
       <p align="center">
         <a href="https://github.com/sachinn-alt/omnipitch-ai"><b>📁 Repository</b></a>
       </p>
@@ -167,94 +185,63 @@
 
 <br/>
 
+<!-- Static Warli Folk Art Strip Divider -->
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center">
-        <h3>🛍️ Vyapari Sathi - Merchant Platform</h3>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-        </p>
-        <p>Empowering local merchants and businesses with an intuitive web management platform for seamless operations and commerce.</p>
-        <p>
-          <a href="https://github.com/sachinn-alt/Vyapari-Sathi"><b>📁 Repository</b></a> • 
-          <a href="https://vyapari-sathi.vercel.app" target="_blank"><b>🌐 Live Application</b></a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="./assets/warli_divider.svg" width="100%" alt="Warli Folk Art Divider"/>
 </div>
 
 <br/>
 
----
-
-## 📊 Live Orbit Metrics & Space Analytics
+## 📊 ॥ गिट आँकड़े • Static Engineering Telemetry ॥
 
 <div align="center">
 
-  <!-- GitHub Stats & Top Languages in Cosmic Blue & Starlight Cyan Theme -->
+  <!-- Static GitHub Stats & Top Languages in Indian Royal Indigo & Gold Theme -->
   <table border="0">
-    <tr>
+    <tr align="center">
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachinn-alt&show_icons=true&theme=dark&bg_color=0b0f19&title_color=38bdf8&icon_color=8b5cf6&text_color=cbd5e1&border_color=38bdf8&hide_border=false" alt="Sachin's GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachinn-alt&show_icons=true&bg_color=0D1B2A&title_color=F59E0B&icon_color=D97706&text_color=E2E8F0&border_color=B45309&hide_border=false" alt="Sachin's GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinn-alt&layout=compact&theme=dark&bg_color=0b0f19&title_color=38bdf8&icon_color=8b5cf6&text_color=cbd5e1&border_color=38bdf8&hide_border=false" alt="Sachin's Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinn-alt&layout=compact&bg_color=0D1B2A&title_color=F59E0B&icon_color=D97706&text_color=E2E8F0&border_color=B45309&hide_border=false" alt="Sachin's Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Streak Stats Card in Deep Space Blue Theme -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinn-alt&theme=dark&background=0B0F19&border=38BDF8&stroke=38BDF8&ring=8B5CF6&fire=38BDF8&currStreakNum=38BDF8&sideNums=CBD5E1&sideTitle=8B5CF6&dates=94A3B8&hide_border=false" alt="GitHub Streak Stats" width="95%"/>
+  <!-- Static Streak Stats Card in Deep Royal Indigo & Saffron Border Theme -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinn-alt&background=0D1B2A&border=B45309&stroke=D97706&ring=F59E0B&fire=F59E0B&currStreakNum=F59E0B&sideNums=E2E8F0&sideTitle=D97706&dates=94A3B8&hide_border=false" alt="GitHub Streak Stats" width="95%"/>
 
   <br/><br/>
 
-  <!-- Activity Graph in Deep Cosmic Cyan/Purple Theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinn-alt&theme=github-compact&bg_color=0b0f19&color=38bdf8&line=8b5cf6&point=ffffff&area=true&hide_border=false&border_color=38bdf8" alt="Activity Graph" width="95%"/>
+  <!-- Static Activity Graph in Royal Indigo & Warm Marigold Theme -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinn-alt&theme=github-compact&bg_color=0D1B2A&color=F59E0B&line=D97706&point=FEF3C7&area=true&hide_border=false&border_color=B45309" alt="Activity Graph" width="95%"/>
 
 </div>
 
 <br/>
 
----
-
-## 🐍 Animated Contribution Grid
-
+<!-- Traditional Indian Mandala SVG Section Divider -->
 <div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sachinn-alt/sachinn-alt/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sachinn-alt/sachinn-alt/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sachinn-alt/sachinn-alt/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-
+  <img src="./assets/mandala_divider.svg" width="100%" alt="Mandala Divider"/>
 </div>
 
 <br/>
 
----
-
-## 💬 Developer Inspiration
-
-<div align="center">
-  <img src="https://readme-jokes-three.vercel.app/api?theme=dark&bg_color=0b0f19&color=cbd5e1&border_color=38bdf8&qColor=38bdf8&aColor=8b5cf6" alt="Dev Joke / Quote" />
-</div>
-
-<br/>
-
----
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=footer" width="100%" alt="Footer Wave"/>
+  <!-- Static Indian Heritage Landscape Footer Illustration -->
+  <img src="./assets/footer_indian_illustration.jpg" width="100%" alt="Indian Architectural Heritage & Lotus Waters Footer Banner" style="border-radius: 12px;"/>
 
-  <p><i>"The stars don't struggle to shine, their light is simply who they are."</i></p>
+  <br/><br/>
 
-  <p>⚡ <i>Crafted for <b>sachinn-alt</b> with Deep Cosmic Motion & continuous GitHub automation.</i> ⚡</p>
+  <h3>॥ कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ॥</h3>
+  <p><i>"Dedicate yourself wholeheartedly to the craftsmanship of your work, free from the craving for mere accolades."</i></p>
+  <p>— <b>श्रीमद्भगवद्गीता (Bhagavad Gita • 2.47)</b></p>
+
+  <br/>
+
+  <p>🪔 <i>Rooted in Indian artistic heritage • Crafted with dedication by <b>sachinn-alt</b></i> 🪷</p>
 
 </div>
